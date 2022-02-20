@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blizzard03
 - 👀 I’m interested in robotics, military technology, AI, Wolf and Werewolves
-- 🌱 I’m currently learning Java, HTML, Phyton and C++
+- 🌱 I’m currently learning Java, HTML, Phyton, C++ and Unity
 - 💞️ I’m looking to collaborate on some of furry, wolf or werewolf gendre games
 - 📫 How to reach me Whatsapps(+62 838 7952 7973), Facebook <https://web.facebook.com/Ariq.Westernpack/>
 
