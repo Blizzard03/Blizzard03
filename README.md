@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on some of furry, wolf or werewolf gendre games
 - 📫 How to reach me 
 
-<a href="https://www.facebook.com/Ariq.Westernpack"><img src="https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png" ></a>
+<a href="https://www.facebook.com/Ariq.Westernpack"><img src="https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png" ></a><p>Facebook</p>
 
-<a href="https://www.linkedin.com/in/muhamad-ariq-rasyid-72659512a/"><img src="https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png" ></a>
+<a href="https://www.linkedin.com/in/muhamad-ariq-rasyid-72659512a/"><img src="https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png" ></a><p>Linkedin</p>
 
-<a href="https://www.furaffinity.net/user/mariqblizzardwp03/"><img src="https://www.furaffinity.net/themes/beta/img/banners/fa_logo.png?v2"  width="80px" height="80px"></a>
+<a href="https://www.furaffinity.net/user/mariqblizzardwp03/"><img src="https://www.furaffinity.net/themes/beta/img/banners/fa_logo.png?v2"  width="80px" height="80px"></a><p>Fur Affinity</p>
 
 <!---
 [2]: https://www.linkedin.com/in/muhamad-ariq-rasyid-72659512a/
