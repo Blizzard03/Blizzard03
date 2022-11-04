@@ -15,7 +15,7 @@
 [1]: https://www.facebook.com/Ariq.Westernpack
 [3]: https://www.furaffinity.net/user/mariqblizzardwp03/
 [4]: https://t.me/mariq_r2981
-Whatsapps(+62 838 7952 7973),
+[5]: https://wa.me/62838 7952 7973
 
 <!---
 Blizzard03/Blizzard03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +26,4 @@ You can click the Preview link to take a look at your changes.
 [![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
 [<img src="https://www.furaffinity.net/themes/beta/img/banners/fa_logo.png?v2"  width="80px" height="80px">][3]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"  width="80px" height="80px">][4]
+[<img src="https://faq.whatsapp.com/images/presma/whatsapp/whatsapp_logo-2x.png"  width="80px" height="80px">][5]
