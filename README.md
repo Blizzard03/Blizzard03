@@ -15,7 +15,7 @@
 [1]: https://www.facebook.com/Ariq.Westernpack
 [3]: https://www.furaffinity.net/user/mariqblizzardwp03/
 [4]: https://t.me/mariq_r2981
-[5]: https://wa.me/62838 7952 7973
+[5]: https://wa.me/6283879527973
 
 <!---
 Blizzard03/Blizzard03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
